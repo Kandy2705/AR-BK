@@ -73,24 +73,35 @@ public class GPSMarker : MonoBehaviour
         Vector3 localPos = new Vector3((float)enu.e, (float)enu.u, (float)enu.n);
         Vector3 worldPos = mapPlane.TransformPoint(localPos);
 
-        marker.transform.position = worldPos;
+        transform.position = worldPos;
+        if (marker != null)
+        {
+            marker.transform.position = worldPos;
+        }
 
         if (gpsText != null)
         {
+            float xrOriginHeading = xrOrigin.transform.rotation.eulerAngles.y;
             gpsText.text =
-                $"Lat: {lat:F7}\n" +
-                $"Lon: {lon:F7}\n" +
-                $"E: {enu.e:F2} m\n" +
-                $"N: {enu.n:F2} m\n" +
-                $"U: {enu.u:F2} m\n" +
-                $"Heading: {Input.compass.trueHeading:F1}°";
+                $"Lat: {lat:F7}" +
+                $" Lon: {lon:F7}\n" +
+                $"E: {enu.e:F2} m" +
+                $" N: {enu.n:F2} m" +
+                $" U: {enu.u:F2} m\n" +
+                $"Heading: {Input.compass.trueHeading:F1}°" +
+                $"Huong xoay XR: {xrOriginHeading:F1}°";
         }
 
         // Cập nhật hướng Main Camera theo la bàn
-        if (mainCamera != null)
+        //if (mainCamera != null)
+        //{
+        //    float heading = Input.compass.trueHeading;
+        //    mainCamera.transform.rotation = Quaternion.Euler(0, GetUnityHeading(heading), 0);
+        //}
+        if (xrOrigin != null)
         {
             float heading = Input.compass.trueHeading;
-            mainCamera.transform.rotation = Quaternion.Euler(0, GetUnityHeading(heading), 0);
+            xrOrigin.transform.rotation = Quaternion.Euler(0, GetUnityHeading(heading), 0);
         }
     }
 
