@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|d:\\game\\ar-navigation-bk\\ar-navigation-bk\\assets\\code\\gpsmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gpsmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\assets\\code\\globalproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\globalproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\assets\\code\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\assets\\code\\setnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4D189B-1C96-B3A6-8C0A-318920DC4CA1}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\setnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XROrigin.cs",
+              "DocumentMoniker": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "ToolTip": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.core-utils@2.3.0\\Runtime\\XROrigin.cs",
+              "ViewState": "AgIAAJcCAAAAAAAAAAAmwKYCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:10:06.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPSMarker.cs",
+              "DocumentMoniker": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\GPSMarker.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GPSMarker.cs",
+              "ToolTip": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\GPSMarker.cs",
+              "RelativeToolTip": "Assets\\Code\\GPSMarker.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:21:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalProperties.cs",
+              "DocumentMoniker": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\GlobalProperties.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GlobalProperties.cs",
+              "ToolTip": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\GlobalProperties.cs",
+              "RelativeToolTip": "Assets\\Code\\GlobalProperties.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:55:09.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\InputManager.cs",
+              "ToolTip": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Code\\InputManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:26:38.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetNavigation.cs",
+              "DocumentMoniker": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\SetNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\SetNavigation.cs",
+              "ToolTip": "D:\\game\\AR-Navigation-BK\\AR-Navigation-BK\\Assets\\Code\\SetNavigation.cs",
+              "RelativeToolTip": "Assets\\Code\\SetNavigation.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:18:20.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

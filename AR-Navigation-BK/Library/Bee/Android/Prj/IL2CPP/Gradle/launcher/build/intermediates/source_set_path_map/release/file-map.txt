@@ -1,0 +1,11 @@
+com.DefaultCompany.ARNavigationBK.launcher-jetified-arcore_client-0 C:\Users\ACER\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res
+com.DefaultCompany.ARNavigationBK.launcher-pngs-1 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.ARNavigationBK.launcher-resValues-2 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.ARNavigationBK.launcher-rs-3 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.ARNavigationBK.launcher-mergeReleaseResources-4 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.ARNavigationBK.launcher-mergeReleaseResources-5 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.ARNavigationBK.launcher-merged_res-6 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.ARNavigationBK.launcher-main-7 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.ARNavigationBK.launcher-release-8 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.DefaultCompany.ARNavigationBK.launcher-packaged_res-9 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.ARNavigationBK.launcher-packaged_res-10 D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release

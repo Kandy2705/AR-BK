@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="24" />
+6-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+7
+8    <uses-permission android:name="android.permission.INTERNET" />
+8-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+8-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+9    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+9-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+9-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+10    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+10-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-79
+10-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-76
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-52
+12-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-49
+13    <uses-feature
+13-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-89
+14        android:name="android.hardware.location.gps"
+14-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-61
+15        android:required="false" />
+15-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:62-86
+16    <uses-feature
+16-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-85
+17        android:name="android.hardware.location"
+17-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-57
+18        android:required="false" />
+18-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:58-82
+19    <uses-feature
+19-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-88
+20        android:name="android.hardware.touchscreen"
+20-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-60
+21        android:required="false" />
+21-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:61-85
+22    <uses-feature
+22-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-99
+23        android:name="android.hardware.touchscreen.multitouch"
+23-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-71
+24        android:required="false" />
+24-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:72-96
+25    <uses-feature
+25-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-108
+26        android:name="android.hardware.touchscreen.multitouch.distinct"
+26-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-80
+27        android:required="false" />
+27-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:81-105
+28
+29    <uses-permission android:name="android.permission.CAMERA" />
+29-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-63
+29-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:20-60
+30
+31    <uses-feature
+31-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-85
+32        android:name="android.hardware.camera.ar"
+32-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:17-58
+33        android:required="true" />
+33-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:59-82
+34    <uses-feature
+34-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-83
+35        android:name="com.google.ar.core.depth"
+35-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:17-56
+36        android:required="true" />
+36-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:57-80
+37
+38    <application android:extractNativeLibs="true" >
+38-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-29:17
+38-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+39        <meta-data
+39-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-69
+40            android:name="unity.splash-mode"
+40-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+41            android:value="0" />
+41-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:49-66
+42        <meta-data
+42-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-74
+43            android:name="unity.splash-enable"
+43-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-50
+44            android:value="True" />
+44-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:51-71
+45        <meta-data
+45-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-78
+46            android:name="unity.launch-fullscreen"
+46-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-54
+47            android:value="True" />
+47-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:55-75
+48        <meta-data
+48-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-84
+49            android:name="unity.render-outside-safearea"
+49-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-60
+50            android:value="True" />
+50-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:61-81
+51        <meta-data
+51-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+52            android:name="notch.config"
+52-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+53            android:value="portrait|landscape" />
+53-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+54        <meta-data
+54-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
+55            android:name="unity.auto-report-fully-drawn"
+55-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-60
+56            android:value="true" />
+56-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:61-81
+57
+58        <activity
+58-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-26:16
+59            android:name="com.unity3d.player.UnityPlayerActivity"
+59-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:15-68
+60            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+60-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:180-361
+61            android:exported="true"
+61-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:433-456
+62            android:hardwareAccelerated="false"
+62-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:397-432
+63            android:launchMode="singleTask"
+63-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:148-179
+64            android:resizeableActivity="false"
+64-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:362-396
+65            android:screenOrientation="fullUser"
+65-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:111-147
+66            android:theme="@style/UnityThemeSelector" >
+66-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:69-110
+67            <intent-filter>
+67-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-23:23
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-69
+68-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:19-66
+69
+70                <action android:name="android.intent.action.MAIN" />
+70-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-61
+70-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-58
+71            </intent-filter>
+72
+73            <meta-data
+73-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-82
+74                android:name="unityplayer.UnityActivity"
+74-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-58
+75                android:value="true" />
+75-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:59-79
+76            <meta-data
+76-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-70
+77                android:name="notch_support"
+77-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-46
+78                android:value="true" />
+78-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:47-67
+79        </activity>
+80
+81        <meta-data
+81-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-88
+82            android:name="unityplayer.SkipPermissionsDialog"
+82-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-64
+83            android:value="true" />
+83-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:65-85
+84        <meta-data
+84-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:5-77
+85            android:name="com.google.ar.core"
+85-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:16-49
+86            android:value="required" />
+86-->D:\game\AR-Navigation-BK\AR-Navigation-BK\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:50-74
+87    </application>
+88
+89</manifest>

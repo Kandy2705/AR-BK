@@ -1,0 +1,3 @@
+repository "AR-Navigation-BK/AR-Navigation-BK@18967531932830@cloud"
+  path "/"
+    smartbranch "/main/feature-Khanh-NAVIGATION/feature-Man-rotation/Fix-Rotation-Man"
